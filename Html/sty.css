@@ -1,0 +1,15 @@
+p {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 10px solid #ccc;
+}
